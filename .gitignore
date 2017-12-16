@@ -102,3 +102,6 @@ ENV/
 
 possible_data/
 data/
+*.zip
+*.csv
+data_dictionary_trip_records_green\.pdf
