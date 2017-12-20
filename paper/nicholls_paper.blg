@@ -1,0 +1,26 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: nicholls_paper.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: taxi.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Too many commas in name 1 of "Yunrou Gong, Bin Fang, Shuo Zhang, Jingyu Zhang" for entry blog
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Himanshu Jaiwal, Tushar Bansal, Prateek Jakate, Tejas Saxena" for entry ucsd
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Nivan Ferreira, Jorge Poco, Huy T. Vo, Juliana Freire, Cláudio T. Silva" for entry query
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Nivan Ferreira, Jorge Poco, Huy T. Vo, Juliana Freire, Cláudio T. Silva" for entry query
+while executing---line 2403 of file IEEEtran.bst
+Name 1 in "Hoang Thanh Lam, Ernesto Diaz-Aviles, Alessandra Pascale, Yiannis Gkoufas, and Bei Chen" has a comma at the end for entry ibm
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Hoang Thanh Lam, Ernesto Diaz-Aviles, Alessandra Pascale, Yiannis Gkoufas, and Bei Chen" for entry ibm
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "James Biagioni, Tomas Gerlich, Timothy Merrifield, Jakob Eriksson" for entry et
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Chun-Hsin Wu, Chia-Chen Wei, Da-Chun Su, Ming-Hua Chang and Jan-Ming Ho" for entry highway
+while executing---line 2403 of file IEEEtran.bst
+
+Done.
+(There were 8 error messages)

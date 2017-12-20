@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-9000"
+all_model_checkpoint_paths: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-7000"
+all_model_checkpoint_paths: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-7500"
+all_model_checkpoint_paths: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-8000"
+all_model_checkpoint_paths: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-8500"
+all_model_checkpoint_paths: "C:\\Users\\Brittany\\Dropbox\\School\\CMSC678\\machine-learning\\saved_models\\relu_RMSE\\model.ckpnt-9000"
