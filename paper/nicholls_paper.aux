@@ -1,17 +1,17 @@
 \relax 
-\citation{boroBackground}
+\citation{kaggle}
 \citation{boroBackground}
 \citation{boroTaxi}
 \citation{green2016}
 \citation{yellow2016}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Hard Lesson Learned}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {II}Introduction}{1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Map of NYC with the green taxi pickup areas colored in green. \cite  {boroTaxi}}}{1}}
+\newlabel{greenZone}{{1}{1}}
 \citation{kaggle}
 \citation{blog}
 \citation{kaggle}
 \citation{ucsd}
-\@writefile{toc}{\contentsline {section}{\numberline {I}Introduction}{1}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Map of NYC with the green taxi pickup areas colored in green. \cite  {boroTaxi}}}{1}}
-\newlabel{greenZone}{{1}{1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-A}}Motivation}{1}}
 \citation{kaggle}
 \citation{currie}
 \citation{yukw}
@@ -26,17 +26,43 @@
 \citation{freewayca}
 \citation{highway}
 \citation{green2016}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Motivation}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {III}Related Work}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}Existing Work on NYC Taxi Trip Duration Prediction}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Other Work on Taxi Data}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Other Work on Trip Duration Prediction}{2}}
+\@writefile{toc}{\contentsline {section}{\numberline {IV}Data and Data Challenges}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}NYC Open Data}{2}}
 \citation{weather}
 \citation{trace}
 \citation{sun}
-\@writefile{toc}{\contentsline {section}{\numberline {II}Related Work}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Existing Work on NYC Taxi Trip Duration Prediction}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Other Work on Taxi Data}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}Other Work on Trip Duration Prediction}{2}}
-\@writefile{toc}{\contentsline {section}{\numberline {III}Data and Data Challenges}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}NYC Open Data}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Weather}{2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-C}}Sunrise/Sunset}{2}}
+\citation{ucsd}
+\citation{ucsd}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Weather}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}Sunrise/Sunset}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {V}Data Cleaning and Features Used}{3}}
+\citation{kaggle}
+\@writefile{toc}{\contentsline {section}{\numberline {VI}Baseline Model}{4}}
+\newlabel{baseline}{{VI}{4}}
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Predictive Model}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-A}}Loss Function}{4}}
+\newlabel{loss}{{\unhbox \voidb@x \hbox {VII-A}}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Validation error (RMSE) for the best performing neural network}}{4}}
+\newlabel{ohAcc}{{2}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-B}}Neural Network Settings for Best Results}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Test error (RMSE) for the different iterations of best performing neural network}}{5}}
+\newlabel{ohAcc}{{3}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Scatterplot of the actual durations vs the predicted durations}}{5}}
+\newlabel{predAct}{{4}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VII-B}1}Visualizing Results}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-C}}Model Against March Data}{5}}
+\newlabel{march}{{\unhbox \voidb@x \hbox {VII-C}}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Scatterplot of the actual duration (in seconds) vs the predicted durations (in seconds) for the model minimizing RMSLE}}{5}}
+\newlabel{predActRMSLE}{{5}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-D}}Alternative Settings Considered}{5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {VII-D}1}RMSLE}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-E}}Predictive Model without Dropoff Time Information}{5}}
+\citation{blog}
 \bibstyle{IEEEtran}
 \bibdata{IEEEabrv,taxi}
 \bibcite{boroBackground}{1}
@@ -52,6 +78,9 @@
 \bibcite{stanford}{11}
 \bibcite{query}{12}
 \bibcite{kagglep}{13}
+\@writefile{toc}{\contentsline {section}{\numberline {VIII}Future Work and Ideas}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {IX}Conclusion}{6}}
+\@writefile{toc}{\contentsline {section}{References}{6}}
 \bibcite{ibm}{14}
 \bibcite{india}{15}
 \bibcite{et}{16}
@@ -60,15 +89,3 @@
 \bibcite{weather}{19}
 \bibcite{trace}{20}
 \bibcite{sun}{21}
-\@writefile{toc}{\contentsline {section}{\numberline {IV}Features Used}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {V}Baseline Model}{3}}
-\newlabel{baseline}{{V}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {VI}Neural Network}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Loss Function}{3}}
-\newlabel{loss}{{\unhbox \voidb@x \hbox {VI-A}}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}Neural Network Settings}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}Testing}{3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-D}}Transfer Learning}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {VII}Future Work and Ideas}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {VIII}Conclusion}{3}}
-\@writefile{toc}{\contentsline {section}{References}{3}}

@@ -167,7 +167,7 @@
 
 @Electronic{sun,
   author = {United States Naval Observatory},
-  url    = {http://aa.usno.navy.mil/data/docs/RS_OneYear.php},
+  url    = {http://aa.usno.navy.mil/data/docs/RS\_OneYear.php},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
